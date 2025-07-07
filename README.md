@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tvnisxq&label=Profile%20views&color=0e75b6&style=flat" alt="tvnisxq" /> </p>
 
-- 🔭 I’m currently working on **Data Structures & Algorithms and Computer Vision Projects**
+- 📝 I’m currently working on **Data Structures & Algorithms and Computer Vision Projects**
 
-- 🌱 I’m currently learning **Machine Learning, Computer Vision, and Deep Learning**
+- 📚 I’m currently learning **Machine Learning, Computer Vision, and Deep Learning**
 
-- 👯 I’m looking to collaborate on **Machine Learning Projects**
+- 🫱🏻‍🫲🏼 I’m looking to collaborate on **Machine Learning Projects**
 
 - 💬 Ask me about **Python, ML, DSA, Java, and Git & GitHu**
 
-- 📫 How to reach me **tanishqsmail@gmail.com**
+- 🔗 How to reach me **tanishqsmail@gmail.com**
 
 GH Config: Connect with me & Languages and Tools 
 
