@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/tvnisxq" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968958.png" alt="X (Twitter)" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://github.com/tvnisxq/tvnisxq/assets/157756200/e4c5ed3a-4012-4b35-bcd6-fb7eb8988db4" alt="X" width="32" height="32" style="margin-right: 10px;" />
 </a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/ tanishq-sharma-aa21ba30b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ tanishq-sharma-aa21ba30b" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/30982913" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="30982913" height="30" width="40" /></a>
