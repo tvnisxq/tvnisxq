@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tvnisxq&label=Profile%20views&color=0e75b6&style=flat" alt="tvnisxq" /> </p>
 
-<p align="left"> <a href="https://twitter.com/tvnisxq" target="blank"><img src="https://img.shields.io/twitter/follow/tvnisxq?logo=x&logoColor=white&style=for-the-badge" alt="tvnisxq" /></a> </p>
-
-- 🔭 I’m currently working on **Machine Learning and Computer Vision Projects**
+- 🔭 I’m currently working on **Data Structures & Algorithms and Computer Vision Projects**
 
 - 🌱 I’m currently learning **Machine Learning, Computer Vision, and Deep Learning**
 
@@ -14,6 +12,8 @@
 - 💬 Ask me about **Python, ML, DSA, Java, and Git & GitHu**
 
 - 📫 How to reach me **tanishqsmail@gmail.com**
+
+GH Config: Connect with me & Languages and Tools 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -49,7 +49,8 @@
   </a>
 </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tvnisxq&show_icons=true&locale=en&layout=compact" alt="tvnisxq" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tvnisxq&show_icons=true&locale=en&layout=compact" alt="tvnisxq" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tvnisxq&show_icons=true&locale=en" alt="tvnisxq" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tvnisxq&" alt="tvnisxq" /></p>
