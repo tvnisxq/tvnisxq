@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Tanishq Sharma</h1>
-<h3 align="center">A passionate Java Developer & aspiring AI/ML Engineer</h3>
+<h3 align="center">A passionate AI/ML Developer</h3>
 
 ---
 
-- 🔭 I’m currently working on **Leetcode DSA and ML Projects**
-- 🌱 I’m currently learning **Spring Boot, Deep Learning, and System Design**
-- 👯 I’m open to collaborate on **Java + AI/ML Projects**
-- 📫 Reach me at **your.email@example.com**
-- 💬 Ask me about **Java, Python, ML, DSA, and GitHub workflows**
+- 🔭 I’m currently working on **Data Structures & Algorithms and ML Projects**
+- 🌱 I’m currently learning **Machine Learning, Computer Vision, and Deep Learning**
+- 👯 I’m open to collaborate on **AI/ML Projects**
+- 📫 Reach me at **tanishqsmail@gmail.com**
+- 💬 Ask me about **Python, ML, DSA, Java, and Git & GitHub**
 
 ---
 
