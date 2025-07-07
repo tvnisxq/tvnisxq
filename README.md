@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tvnisxq&label=Profile%20views&color=0e75b6&style=flat" alt="tvnisxq" /> </p>
 
-<p align="left"> <a href="https://twitter.com/tvnisxq" target="blank"><img src="https://img.shields.io/twitter/follow/tvnisxq?logo=twitter&style=for-the-badge" alt="tvnisxq" /></a> </p>
+<p align="left"> <a href="https://twitter.com/tvnisxq" target="blank"><img src="https://img.shields.io/twitter/follow/tvnisxq?logo=x&logoColor=white&style=for-the-badge" alt="tvnisxq" /></a> </p>
 
 - 🔭 I’m currently working on **Machine Learning and Computer Vision Projects**
 
