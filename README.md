@@ -17,9 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/tvnisxq" target="_blank">
-  <img src="https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg?semt=ais_hybrid&w=740" alt="X" width="32" height="32" style="margin-right: 10px;" />
-</a>
+<a href="https://twitter.com/tvnisxq" target="_blank"><img align="center" src="https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg?semt=ais_hybrid&w=740" alt="X" width="32" height="32" style="margin-right:10px;" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/ tanishq-sharma-aa21ba30b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ tanishq-sharma-aa21ba30b" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/30982913" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="30982913" height="30" width="40" /></a>
 <a href="https://kaggle.com/tvnisxq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="tvnisxq" height="30" width="40" /></a>
