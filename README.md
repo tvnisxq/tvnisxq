@@ -1,7 +1,7 @@
 ![MasterHead](https://raw.githubusercontent.com/tvnisxq/GitHub-Profile-Config-Files/11d6acbcf195918e519699ace0d842853775db68/banner.svg)
 <h1 align="center">Hi 👋, I'm Tanishq Sharma</h1>
 <h3 align="center">A passionate AI/ML Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/0229b9a70223604f859b07d927ddbc467a6d3ec84e33b6eb08b6a7c84af72139/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f36652f61352f66642f36656135666435393834373766346562363232353366633330303430333963612e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tvnisxq&label=Profile%20views&color=0e75b6&style=flat" alt="tvnisxq" /> </p>
 
