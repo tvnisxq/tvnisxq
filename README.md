@@ -15,7 +15,6 @@
 
 - 🔗 How to reach me **tanishqsmail@gmail.com**
 
-GH Config: Connect with me & Languages and Tools 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
