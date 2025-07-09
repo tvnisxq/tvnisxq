@@ -11,7 +11,7 @@
 
 - 🫱🏻‍🫲🏼 I’m looking to collaborate on **Machine Learning Projects**
 
-- 💬 Ask me about **Python, ML, DSA, Java, and Git & GitHu**
+- 💬 Ask me about **Python, ML, DSA, Java, and Git & GitHub**
 
 - 🔗 How to reach me **tanishqsmail@gmail.com**
 
