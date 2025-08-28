@@ -66,8 +66,20 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tvnisxq&" alt="tvnisxq" /></p>
 
 
+
+
+
+
+
+
+
+
+
+
+<p align="right">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tvnisxq" alt="tvnisxq" />
+</p>
 
 
