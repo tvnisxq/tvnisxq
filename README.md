@@ -9,11 +9,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tvnisxq&label=Profile%20views&color=0e75b6&style=flat" alt="tvnisxq" /> </p>
 
-- 📝 I’m currently working on **Data Structures & Algorithms and Computer Vision Projects**
+- 📝 I'm currently working on **Data Structures & Algorithms and Computer Vision Projects**
 
-- 📚 I’m currently learning **Machine Learning, Computer Vision, and Deep Learning**
+- 📚 I'm currently learning **Machine Learning, Computer Vision, and Deep Learning**
 
-- 🫱🏻‍🫲🏼 I’m looking to collaborate on **Machine Learning Projects**
+- 🫱🏻‍🫲🏼 I'm looking to collaborate on **Machine Learning Projects**
 
 - 💬 Ask me about **Python, ML, DSA, Java, Git & GitHub**
 
@@ -54,32 +54,11 @@
   </a>
 </p>
 
-
-
-
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tvnisxq&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=tvnisxq&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tvnisxq&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tvnisxq&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide_border=true" alt="GitHub Stats" />
 </div>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<p align="right">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tvnisxq" alt="tvnisxq" />
+<p align="left">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=tvnisxq&theme=dark&hide_border=true&ring=00ff00&fire=00ff00&currStreakLabel=00ff00" alt="GitHub Streak Stats" />
 </p>
-
-
