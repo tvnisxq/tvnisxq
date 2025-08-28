@@ -60,5 +60,5 @@
 </div>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=tvnisxq&theme=dark&hide_border=true&ring=00ff00&fire=00ff00&currStreakLabel=00ff00" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=tvnisxq&theme=dark&hide_border=true&ring=79ff97&fire=79ff97&currStreakLabel=79ff97" alt="GitHub Streak Stats" />
 </p>
