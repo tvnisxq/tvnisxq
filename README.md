@@ -30,13 +30,12 @@
 </p>
 
 
-###
-<h2 align="left" style="font-size: 36px;"> 
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2dydDhkZjF2bjVpY294N25raHd0aDJ6dDB5NWVnNjE5bWFkam01eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26ufk0Rq56TSOYZEs/giphy.gif" width="70" height="70"> 
-  Known so far:
+<h2 align="center" style="font-size: 36px; display: flex; align-items: center; justify-content: center;"> 
+  <span style="margin-right: 20px;">ALGORITHMIC</span>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2dydDhkZjF2bjVpY294N25raHd0aDJ6dDB5NWVnNjE5bWFkam01eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26ufk0Rq56TSOYZEs/giphy.gif" width="70" height="60"> 
+  <span style="margin-left: 20px;">INTELLIGENCE</span>
 </h2>
 
-###
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
