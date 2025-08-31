@@ -29,6 +29,15 @@
 <a href="https://www.leetcode.com/tvnisxq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tvnisxq" height="30" width="40" /></a>
 </p>
 
+
+###
+<h2 align="left" style="font-size: 36px;"> 
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2dydDhkZjF2bjVpY294N25raHd0aDJ6dDB5NWVnNjE5bWFkam01eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26ufk0Rq56TSOYZEs/giphy.gif" width="70" height="70"> 
+  Know so far:
+</h2>
+
+###
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
