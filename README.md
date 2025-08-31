@@ -33,7 +33,7 @@
 ###
 <h2 align="left" style="font-size: 36px;"> 
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2dydDhkZjF2bjVpY294N25raHd0aDJ6dDB5NWVnNjE5bWFkam01eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26ufk0Rq56TSOYZEs/giphy.gif" width="70" height="70"> 
-  Know so far:
+  Known so far:
 </h2>
 
 ###
