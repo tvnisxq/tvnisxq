@@ -1,8 +1,9 @@
 ![MasterHead](https://raw.githubusercontent.com/tvnisxq/GitHub-Profile-Config-Files/11d6acbcf195918e519699ace0d842853775db68/banner.svg)
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!;Tanishq+this+side....;Nice+to+meet+you!&center=true&size=30">
-  </a>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&height=60&lines=Hello,+there!;Tanishq+this+side....;Nice+to+meet+you!;Artificial+intelligence+enthusiast;Machine+learning+researcher;Algorithmic+problem+solver;Innovation+through+code" alt="Dynamic Typing"/>
+</div>
+
 </h1>
 <h3 align="center">A passionate AI/ML Developer & Researcher.</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7e4fde20d16f05f7f68d5fbe55fff4bdc0b43486b11a95aa21b443bb1cd6e622/68747470733a2f2f632e74656e6f722e636f6d2f2d5579674268336e6e664541414141432f636f64696e672e676966">
