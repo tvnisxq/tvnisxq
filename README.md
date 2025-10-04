@@ -10,15 +10,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tvnisxq&label=Profile%20views&color=0e75b6&style=flat" alt="tvnisxq" /> </p>
 
-- 📝 I'm currently working on **Data Structures & Algorithms and Computer Vision Projects**
+▷ I'm currently working on **Data Structures & Algorithms and Computer Vision Projects**,  learning about  **Machine Learning, Computer Vision, and Deep Learning**
 
-- 📚 I'm currently learning **Machine Learning, Computer Vision, and Deep Learning**
+▷ Feel free to send a Collaboration Request mail for **Machine Learning Projects.
 
-- 🫱🏻‍🫲🏼 I'm looking to collaborate on **Machine Learning Projects**
-
-- 💬 Ask me about **Python, ML, DSA, Java, Git & GitHub**
-
-- 🔗 How to reach me **tanishqsmail@gmail.com**
+▷  Here's my mail: **tanishqsmail@gmail.com** OR **ponasanthem@gmail.com** 
 
 
 <h3 align="left">Connect with me:</h3>
