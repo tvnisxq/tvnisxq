@@ -12,7 +12,7 @@
 
 ▷ I'm currently working on Data Structures & Algorithms and Computer Vision Projects,  learning about  Machine Learning, Computer Vision, and Deep Learning.
 
-▷ Feel free to send a Collaboration Request mail for **Machine Learning Projects.
+▷ Feel free to send a Collaboration Request mail for Machine Learning Projects.
 
 ▷  Here's my mail: **tanishqsmail@gmail.com** OR **ponasanthem@gmail.com** 
 
