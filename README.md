@@ -4,9 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&height=60&lines=Hello,+there!;Tanishq+this+side....;Nice+to+meet+you!;Artificial+intelligence+enthusiast;Machine+learning+researcher;Algorithmic+problem+solver;Innovation+through+code" alt="Dynamic Typing"/>
 </div>
 
-</h1>
 <h3 align="center">A passionate AI/ML Developer & Researcher.</h3>
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tvnisxq&label=Profile%20views&color=0e75b6&style=flat" alt="tvnisxq" /> </p>
 
@@ -14,10 +12,7 @@
 
 ▷ Feel free to send a Collaboration Request mail for Machine Learning Projects.
 
-▷  Here's my mail: **tanishqsmail@gmail.com** OR **ponasanthem@gmail.com** 
-
-
-<h3 align="left">Connect with me:</h3>
+▷  Here's my mail: **tanishqsmail@gmail.com** OR **ponasanthem@gmail.com** <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/tvnisxq" target="_blank"><img align="center" src="https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg?semt=ais_hybrid&w=740" alt="X" width="32" height="32" style="margin-right:10px;" /></a>
 <a href="https://www.linkedin.com/in/tanishq-sharma-aa21ba30b/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanishq-sharma-aa21ba30b" height="30" width="40" /></a>
@@ -65,5 +60,9 @@
 </div>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=tvnisxq&theme=dark&hide_border=true&ring=79ff97&fire=79ff97&currStreakLabel=79ff97" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=tvnisxq&theme=dark&hide_border=true&ring=79ff97&fire=79ff97&currStreakLabel=79ff97&background=151515" alt="GitHub Streak Stats" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tvnisxq&bg_color=151515&color=79ff97&line=00D9FF&point=ffffff&hide_border=true" alt="Contribution Graph" />
 </p>
