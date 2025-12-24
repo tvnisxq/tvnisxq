@@ -1,5 +1,4 @@
 ![MasterHead](https://raw.githubusercontent.com/tvnisxq/GitHub-Profile-Config-Files/11d6acbcf195918e519699ace0d842853775db68/banner.svg)
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&height=60&lines=Hello,+there!;Tanishq+this+side....;Nice+to+meet+you!;Artificial+intelligence+enthusiast;Machine+learning+researcher;Algorithmic+problem+solver;Innovation+through+code" alt="Dynamic Typing"/>
 </div>
