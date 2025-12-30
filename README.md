@@ -65,3 +65,5 @@
 <p align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tvnisxq&bg_color=151515&color=79ff97&line=00D9FF&point=ffffff&hide_border=true" alt="Contribution Graph" />
 </p>
+
+![Metrics](https://github.com/your-username/tvnisxq/blob/main/github-metrics.svg)
