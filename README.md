@@ -62,4 +62,4 @@
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=tvnisxq&theme=dark&hide_border=true&ring=79ff97&fire=79ff97&currStreakLabel=79ff97&background=151515" alt="GitHub Streak Stats" />
 </p>
 
-![Metrics](https://github.com/your-username/tvnisxq/blob/main/github-metrics.svg)
+![Metrics](https://github.com/tvnisxq/tvnisxq/blob/main/github-metrics.svg)
