@@ -53,11 +53,6 @@
   </a>
 </p>
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tvnisxq&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide_border=true" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=tvnisxq&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide_border=true" alt="GitHub Stats" />
-</div>
-
 <p align="left">
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=tvnisxq&theme=dark&hide_border=true&ring=79ff97&fire=79ff97&currStreakLabel=79ff97&background=151515" alt="GitHub Streak Stats" />
 </p>
