@@ -2,7 +2,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&height=60&lines=Hello,+there!;Tanishq+this+side....;Nice+to+meet+you!;Artificial+intelligence+enthusiast;Machine+learning+researcher;Algorithmic+problem+solver;Innovation+through+code" alt="Dynamic Typing"/>
 </div>
-
 <h3 align="center">A passionate AI/ML Developer & Researcher.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tvnisxq&label=Profile%20views&color=0e75b6&style=flat" alt="tvnisxq" /> </p>
