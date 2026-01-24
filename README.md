@@ -25,7 +25,6 @@
   <span style="margin-left: 20px;">INTELLIGENCE</span>
 </h2>
 
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
