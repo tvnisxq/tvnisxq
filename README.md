@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tvnisxq&label=Profile%20views&color=0e75b6&style=flat" alt="tvnisxq" /> </p>
 
-▷ I'm currently working on Data Structures & Algorithms and Computer Vision Projects,  learning about  Machine Learning, Computer Vision, and Deep Learning.
+▷ I'm currently working on Data Structures & Algorithms and Computer Vision Projects,  learning about  Machine Learning.
 
 ▷ Feel free to send a Collaboration Request mail for Machine Learning Projects.
 
